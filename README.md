@@ -2,35 +2,23 @@
   <content>
 # text2latex
 
-TODO: Write a project description
+Takes a text file as input to be formatted to an output file readable to LaTex
 
 ## Installation
 
-TODO: Describe the installation process
+Compile t2latex.cpp which requires the functions included in text2latex.h
 
 ## Usage
 
-TODO: Write usage instructions
+t2latex <input file> <output file>
 
-## Contributing
+## Details
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-
-## History
-
-TODO: Write history
-
-## Credits
-
-TODO: Write credits
+t2latex.cpp: contains the main function that reads <input file> and formats output to <output file>
 
 ## License
 
-TODO: MIT license
+MIT license
 </content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
