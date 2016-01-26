@@ -6,7 +6,7 @@ Takes a text file as input to be formatted to an output file readable to LaTex
 
 ## Installation
 
-Compile t2latex.cpp which requires the functions included in text2latex.h
+Compile t2latex.cpp ensuring text2latex.h are in the same directory.
 
 ## Usage
 
