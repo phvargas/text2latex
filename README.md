@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[
+  <content>
 # text2latex
 
 TODO: Write a project description
@@ -31,6 +31,6 @@ TODO: Write credits
 ## License
 
 TODO: MIT license
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
