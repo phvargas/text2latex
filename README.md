@@ -10,11 +10,11 @@ Compile t2latex.cpp which requires the functions included in text2latex.h
 
 ## Usage
 
-t2latex <input file> <output file>
+t2latex \<input file\> \<output fil\e>
 
 ## Details
 
-t2latex.cpp: contains the main function that reads \<input file\> and formats output to <output file>
+t2latex.cpp: contains the main function that reads \<input file\> and formats output to \<output file\>
 
 ## License
 
