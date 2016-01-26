@@ -14,7 +14,7 @@ t2latex <input file> <output file>
 
 ## Details
 
-t2latex.cpp: contains the main function that reads <input file> and formats output to <output file>
+t2latex.cpp: contains the main function that reads \<input file\> and formats output to <output file>
 
 ## License
 
